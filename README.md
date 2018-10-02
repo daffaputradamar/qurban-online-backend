@@ -1,4 +1,5 @@
 # qurban-online-backend
+aplikasi untuk mempermudahkan mencari orang yang ingin melakukan qurban.
 
 1. install all the dependencies
 `npm install`
